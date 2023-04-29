@@ -1,5 +1,5 @@
 # Weather Watcher
->  This project utilizes the open weather map server-side API to access weather data for cities based on user-input. The application features a browser-based web app with dynamically updating HTML and CSS, and utilizes local storage to store persistant data. <br><br>
+>  This project uses the open weather API to access weather data for cities based on user-input. The application features a browser-based web app that dynamically updates HTML and CSS, and utilizes local storage to store data. <br><br>
 
 GIVEN a weather dashboard with form inputs
 WHEN I search for a city
